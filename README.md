@@ -1,7 +1,7 @@
 # Frequency-Supervised-MR-to-CT-Image-Synthesis
-The code for Frequency Supervised MR-to-CT Image Synthesis, MICCAI workshop on Deep Generative Models, 2021 [<a href="https://arxiv.org/pdf/2107.08962.pdf" target="_blank">pdf</a>]
+Frequency Supervised MR-to-CT Image Synthesis, MICCAI workshop on Deep Generative Models, 2021 [<a href="https://arxiv.org/pdf/2107.08962.pdf" target="_blank">pdf</a>]
 
-![image](https://github.com/shizenglin/Counting-with-Focus-for-Free/blob/master/image/overview.png)
+![image](https://github.com/shizenglin/Frequency-Supervised-MR-to-CT-Image-Synthesis/blob/main/overview.png)
 <p> &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 &#12288 Overview of our approach </p>
 
 <h2> Requirements </h2>

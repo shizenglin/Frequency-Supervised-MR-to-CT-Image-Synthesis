@@ -6,6 +6,7 @@ from glob import glob
 from scipy.ndimage import rotate
 from random import randint
 from skimage.measure import compare_psnr, compare_ssim
+from scipy.ndimage.filters import gaussian_filter, uniform_filter
 
 def mae_psnr_ssim(prediction, ground_truth):
 
